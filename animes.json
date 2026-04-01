@@ -1,4 +1,39 @@
 {
-  "version": 1775058292902,
-  "data": []
+  "version": 1775058747547,
+  "data": [
+    {
+      "id": 1,
+      "anime_name": 2,
+      "arabic_name": 3,
+      "english_name": 4,
+      "japanese_name": 5,
+      "type": 6,
+      "status": 7,
+      "information": 8,
+      "seasons_count": 9,
+      "movies_count": 10,
+      "imdb": 11,
+      "mal": 12,
+      "image": 13,
+      "free_url": 14,
+      "premium_url": 15
+    },
+    {
+      "id": "jjk",
+      "anime_name": "jjk",
+      "arabic_name": "",
+      "english_name": "",
+      "japanese_name": "",
+      "type": "",
+      "status": "",
+      "information": "",
+      "seasons_count": "",
+      "movies_count": "",
+      "imdb": "",
+      "mal": "",
+      "image": "",
+      "free_url": "",
+      "premium_url": ""
+    }
+  ]
 }
